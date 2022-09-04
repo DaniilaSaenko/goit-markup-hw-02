@@ -32,8 +32,11 @@ h3 {
     line-height: 01.19;
 }
 
-.page-poster .title, .page-features .title, .page-projeckt .title {
+.page-poster .title {
     color: var(--color-white);
+}
+.page-features .title, .page-projeckt .title {
+    display: none
 }
 button {
     font-family: inherit;
