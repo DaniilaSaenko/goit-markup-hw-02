@@ -47,6 +47,14 @@ button {
     background-color: var(--color-footer); 
     width: 1600px;
 }
+.primary {
+    background-color: var(--color-accent);
+    color: var(--color-white);
+}
+.secondary {
+    background-color: var(--color-grey);
+    color: var(--color-title);
+}
 .page-poster .title {
     font-weight: 900;
     font-size: 44px;
@@ -88,8 +96,8 @@ button {
     color: var(--color-accent); 
 }
 .button-main, .button-link{
-    background-color: var(--color-grey);
-    color: var(--color-title);
+/*    background-color: var(--color-grey);
+        color: var(--color-title); */
     font-size: 16px;
     text-align: center;
 }
