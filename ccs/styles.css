@@ -86,11 +86,12 @@ button {
     line-height: 1.14;
     letter-spacing: 0.02em;
 }
-.current {
-    color: var(--color-accent);
-}
+
 .link-cont {
     color: var(--color-text);
+}
+.current {
+    color: var(--color-accent);
 }
 .link:hover, .link:focus, .link-cont:hover, .link-cont:focus {
     color: var(--color-accent); 
@@ -143,9 +144,7 @@ button {
 .logo-color {
     color: var(--color-accent);
 }
-
 .page-footer, .address-footer, .link-footer {
-
     color: var(--color-rgba);
 }
 .address-footer, .link-footer{
@@ -156,3 +155,6 @@ button {
     color: var(--color-white);
     text-decoration: none;
 } 
+.primary-footer {
+    color: var(--color-white)
+}
