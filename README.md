@@ -83,7 +83,7 @@ letter-spacing: 0.03em;
 
 color: #212121;
 
-Заголовок (H3):
+Заголовок (card-team):
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
