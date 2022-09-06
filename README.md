@@ -76,7 +76,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 36px;
-line-height: 42px; (42/36=1,16)
+line-height: 42px; (42/36=1.16)
 
 text-align: center;
 letter-spacing: 0.03em;
@@ -101,7 +101,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 24px; (24/14=1,71)
+line-height: 24px; (24/14=1.71)
 letter-spacing: 0.03em;
 
 color: #FFFFFF;
@@ -111,7 +111,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
 font-size: 14px;
-line-height: 24px; (24/14=1,71)
+line-height: 24px; (24/14=1.71)
 letter-spacing: 0.03em;
 
 color: rgba(255, 255, 255, 0.6);
@@ -122,7 +122,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
 font-size: 16px;
-line-height: 30px; (30/16=1,88)
+line-height: 30px; (30/16=1.88)
 display: flex;
 align-items: center;
 text-align: center;
@@ -135,7 +135,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 26px; (26/16=1,1,63)
+line-height: 26px; (26/16=1.63)
 text-align: center;
 letter-spacing: 0.03em;
 
