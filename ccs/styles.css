@@ -18,6 +18,11 @@ body {
     line-height: 1.71;
     letter-spacing: 0.03em;
     }
+button {
+    font-family: inherit;
+    cursor: pointer;
+    border-color: transparent;
+}
 .text {
     font-weight: 400;
     font-size: 16px;
@@ -47,12 +52,11 @@ body {
     border-radius: 0px 0px 4px 4px;
 }
 .card-projeckt {
-    background-color: var(--color-white);
+    text-decoration: none;
     width: 370px;
     font-size: 16px;
     line-height: 1.88;
-    border-color: var(--color-borders);
-}
+    }
 .page-poster .title {
     color: var(--color-white);   
     font-weight: 900;
@@ -80,11 +84,6 @@ body {
 /*.page-features .title, .page-projeckt .title {
     display: none
 }*/
-button {
-    font-family: inherit;
-    cursor: pointer;
-    border-color: transparent;
-}
 .page-poster {
     background-color: var(--color-footer); 
     width: 1600px;
@@ -181,6 +180,7 @@ button {
 }
 .page-footer, .address-footer, .link-footer {
     color: var(--color-rgba);
+    font-style: normal;
 }
 .address-footer, .link-footer{
     text-decoration: none;
