@@ -101,7 +101,7 @@ button {
     list-style: none;
 }
 .logo-main {
-    text-decoration: none;
+    text-decoration: none; 
     color: var(--color-black);
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -180,7 +180,7 @@ button {
 }
 .page-footer, .address-footer, .link-footer {
     color: var(--color-rgba);
-    font-style: normal;
+    font-style: normal; 
 }
 .address-footer, .link-footer{
     text-decoration: none;
